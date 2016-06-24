@@ -1,0 +1,49 @@
+Message-ID: <74420351e2d0d7ffd90acf65f8398d80@localhost>
+Date: Fri, 24 Jun 2016 15:31:19 +0300
+Subject: Account activation for Easy English
+From: Easy English robot <support@example.com>
+To: some_email@example.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1466771479_7b61d9a04f834c48792b8ae44632da7a_=_"
+
+
+--_=_swift_v4_1466771479_7b61d9a04f834c48792b8ae44632da7a_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Hello some_username,
+
+Follow this link to activate your account:
+
+P=
+lease, click here to activate your account.
+
+--_=_swift_v4_1466771479_7b61d9a04f834c48792b8ae44632da7a_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+   =20
+Hello some_username,
+
+Follow this link to activate your account:=
+
+
+<a href=3D"http://localhost/index.php/site/activate-account?token=3Db=
+k3pDubMH-Q-Q9z6JRuyjGPGT8zaEcDx_1466771478">Please, click here to activate =
+your account.</a>    </body>
+</html>
+
+
+--_=_swift_v4_1466771479_7b61d9a04f834c48792b8ae44632da7a_=_--
