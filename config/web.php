@@ -14,7 +14,7 @@ $config = [
             // !!! insert a secret key in the following (if it is empty) 
             // - this is required by cookie validation
             'cookieValidationKey' => '-pVPvfy4vHXv3wYUt3C7fOoi2vKJbiAy',
-			'enableCsrfValidation' => false,
+			'enableCsrfValidation' => true,
         ],
         // you can set your theme here 
         // - template comes with: 'default', 'slate', 'spacelab' and 'cerulean'
